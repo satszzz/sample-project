@@ -1,7 +1,7 @@
 # 📸 Photo Gallery
 
 A simple photo gallery website created using **HTML and CSS**.
----
+
 ## Features
 
 - Beautiful nature images
