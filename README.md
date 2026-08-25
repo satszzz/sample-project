@@ -16,5 +16,4 @@ A simple photo gallery website created using **HTML and CSS**.
 
 ## Author
 
-
 **Satheeswaran B**
